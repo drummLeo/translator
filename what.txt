@@ -1,0 +1,91 @@
+
+Turkish Translations:
+nasıl
+
+Turkish Examples:
+No one knows what commercials sell what products.
+Hangi reklamın hangi ürünü sattığını kimse bilmez.
+
+Arabic Translations:
+ما
+
+Arabic Examples:
+FBI! Everyone stop what what you're doing!
+مكتب التحقيقات الفدرالي الجميع أوقفوا ما تفعلونه
+
+German Translations:
+was
+
+German Examples:
+And we both know what what Nina Sharp wants, she gets.
+Und wir beiden wissen: Was Nina Sharp bekommen will, bekommt sie auch.
+
+Spanish Translations:
+lo que
+
+Spanish Examples:
+I could care less what what anyone thinks of me.
+No me interesa en absoluto lo que piensan los demás de mí.
+
+French Translations:
+ce que
+
+French Examples:
+You know what everyone was thinking, what everyone believed, what I believed, and what Tess clearly believed.
+Tu sais ce que tout le monde pensait, ce que tout le monde croyait, ce que je croyais, et ce que Tess croit clairement.
+
+Hebrew Translations:
+מה
+
+Hebrew Examples:
+You know what what wasn't? Visiting my mother.
+את יודעת מה לא הייתה החלטה טובה.
+
+Japanese Translations:
+何
+
+Japanese Examples:
+While scanning the memory module memtest collects information what is wrong.
+メモリモジュールを調べている間、memtest　は何が問題なのかに関する情報を収集しています。
+
+Dutch Translations:
+wat
+
+Dutch Examples:
+It's what Crystal wants, what we promised him.
+Het is wat Chrystal wil, wat we hem hebben beloofd.
+
+Polish Translations:
+jaki
+
+Polish Examples:
+Demonstrate what life is and what it could be.
+Zademonstrujemy kontrast pomiędzy tym jakie życie jest, a jakie mogłoby być.
+
+Portuguese Translations:
+o que
+
+Portuguese Examples:
+Perhaps we should ask Zak what what he wants.
+Talvez nós devêssemos perguntar ao Zak o que ele quer.
+
+Romanian Translations:
+ce
+
+Romanian Examples:
+Perhaps we should ask Zak what what he wants.
+Poate ar trebui să îl întrebați pe Zak ce își dorește el.
+
+Russian Translations:
+что
+
+Russian Examples:
+But here's what really perplexed me.
+Однако, я расскажу о том, что меня действительно поставило в недоумение.
+
+Turkish Translations:
+nasıl
+
+Turkish Examples:
+No one knows what commercials sell what products.
+Hangi reklamın hangi ürünü sattığını kimse bilmez.
